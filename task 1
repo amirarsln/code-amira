@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="create-new">
+      <div class="div">
+        <div class="logout">
+          <div class="role">
+            <div class="text-wrapper">Select to choose</div>
+            <img class="vector" src="img/vector-4.svg" />
+          </div>
+          <img class="img" src="img/vector.svg" />
+        </div>
+        <img class="search" src="img/search.svg" />
+        <img class="profile" src="img/profile.svg" />
+        <div class="overlap"><div class="text-wrapper-2">Insert some texts here</div></div>
+        <div class="text-wrapper-3">CREATE NEW USER APPLICATION</div>
+        <p class="hello-amira"><span class="span">Hello,</span> <span class="text-wrapper-4"> Amira.</span></p>
+        <div class="overlap-group">
+          <div class="div-2">
+            <div class="div-3"></div>
+            <div class="text-wrapper-5">Display Name</div>
+          </div>
+          <div class="text-wrapper-6">Enter your display name</div>
+        </div>
+        <div class="overlap-2">
+          <div class="div-2">
+            <div class="div-3"></div>
+            <div class="text-wrapper-5">Email</div>
+          </div>
+          <div class="text-wrapper-7">name@example.com</div>
+        </div>
+        <div class="overlap-group-2">
+          <div class="div-2">
+            <div class="div-3"></div>
+            <div class="text-wrapper-5">Password</div>
+          </div>
+          <div class="text-wrapper-7">Enter your password</div>
+        </div>
+        <div class="overlap-3">
+          <div class="div-2">
+            <div class="div-3"></div>
+            <div class="text-wrapper-5">Confirm Password</div>
+          </div>
+          <div class="text-wrapper-8">Re-enter your password</div>
+        </div>
+        <div class="overlap-4">
+          <div class="div-2">
+            <div class="div-3"></div>
+            <div class="text-wrapper-5">Official Name</div>
+          </div>
+          <div class="text-wrapper-9">Enter your official name</div>
+        </div>
+        <div class="title">
+          <div class="text-wrapper-5">Title</div>
+          <div class="div-4">
+            <div class="text-wrapper">Select to choose</div>
+            <img class="vector-2" src="img/vector-6.svg" />
+          </div>
+        </div>
+        <div class="role-2">
+          <div class="text-wrapper-10">Role</div>
+          <div class="role-3">
+            <div class="text-wrapper">Select to choose</div>
+            <img class="vector-2" src="img/vector-2.svg" />
+          </div>
+        </div>
+        <div class="text-wrapper-11">Profile</div>
+        <div class="frame-member">
+          <div class="text-wrapper-12">Member</div>
+          <img class="vector-2" src="img/vector-3.svg" />
+        </div>
+        <div class="frame-admin">
+          <div class="text-wrapper-12">Admin</div>
+          <img class="vector-2" src="img/vector-5.svg" />
+        </div>
+        <div class="frame-sabah"><div class="text-wrapper-12">Sabah</div></div>
+        <div class="text-wrapper-13">Search</div>
+        <div class="text-wrapper-14">Logout</div>
+        <div class="frame-create"><div class="text-wrapper-15">CREATE</div></div>
+        <div class="gender">
+          <div class="text-wrapper-5">Gender</div>
+          <div class="div-4">
+            <div class="text-wrapper">Select to choose</div>
+            <img class="vector-2" src="img/image.svg" />
+          </div>
+        </div>
+        <img class="back-button" src="img/back-button.png" />
+        <img class="LOGO" src="img/LOGO.png" />
+      </div>
+    </div>
+  </body>
+</html>
